@@ -1,5 +1,5 @@
 # smallsh
-A POSIX-compliant shell implemented in C, built from scratch as part of an Operating Systems course at California State University, East Bay.
+A POSIX-compliant shell implemented in C, built from scratch as part of an Operating Systems course at Oregon State University
 
 ## Overview
 
